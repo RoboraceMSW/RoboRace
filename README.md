@@ -20,3 +20,25 @@ This is an **example README** showing:
 - *Italic*, **bold**, and ~~strikethrough~~ text
 - Inline code like `print("Hello")`
 - Links and images
+Example link: [OpenAI](https://openai.com)  
+Example image:
+
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
+Or resized with HTML:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown Logo" width="120">
+
+---
+
+## ⚙️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/username/repo.git
+
+# Move into the folder
+cd repo
+
+# Install dependencies
+npm install
