@@ -16,7 +16,7 @@ Hierbij wordt steeds gekeken naar de overeenkomsten en verschillen tussen mens e
 
 <p align="center"><img src="resources/images/microbit_beating_heart.webp" width="30%" height="30%"></p>
 
-De nadruk bij de lessen ligt steeds op het **zelf doen**. Zelf je robot en de arena inelkaar zetten, zelf je programma's bedenken en naar de robot sturen. Uiteindelijk kan iedereen in de laatste les laten zien hoe goed hun robot een route kan vinden door een parcours vol hindernissen.
+De nadruk bij de lessen ligt steeds op het **zelf doen**. Zelf je robot en de arena in elkaar zetten, zelf je programma's bedenken en naar de robot sturen. Uiteindelijk kan iedereen in de laatste les laten zien hoe goed hun robot een route kan vinden door een parcours vol hindernissen.
 
 ## Programmeeromgeving
 We maken gebruik van de [micro:bit](https://microbit.org/nl/), een klein printplaatje dat door de BBC speciaal is ontwikkeld voor het onderwijs. Het heeft een ingebouwde LED-matrix, sensoren, bluetooth en programmeerbare knoppen die uitnodigen om spelenderwijs te ontdekken hoe leuk en verrassend programmeren kan zijn. De programmas worden gemaakt in de binnen de [MakeCode programmeer- en simulatieomgeving](https://makecode.microbit.org/) met de  [MakeCode Blocks](https://makecode.microbit.org/blocks) programmeertaal; een intuitieve en visuele manier van programmeren waarmee ieder kind direct aan de slag kan. Vanuit deze programmeeromgeving kan het gemaakte programma via een usb-kabel naar de microbit worden verzonden. Voor iedere leerling is er een eigen micro:bit, een robot en een Chromebook waarop de MakeCode omgeving draait.<br/>
