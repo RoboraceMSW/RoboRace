@@ -33,4 +33,6 @@ Wil je meer te weten komen over de BBC micro:bit, de MakeCode programmeeromgevin
 [Maqueen v5 robot wiki](https://wiki.dfrobot.com/SKU_MBT0046_Maqueen_V5) Alle ins en outs van de Maqueen robot<br/>
 [Maqueen Robot bij arduitronics](https://www.arduitronics.com/product/6551/maqueen-lite-v5-microbit-robot-kit-for-stem-line-tracking-obstacle-avoidance-%E0%B9%81%E0%B8%97%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81-dfrobot) meer info over de Maqueen robot (engels)<br/>
 [Handleiding inelkaarzetten Robot](resources/Roborace_handleiding_inelkaarzetten_robot.pdf)
+<br/>
+[N.B. De links op deze pagina zijn uitsluitend een vrijblijvende suggestie.  De school noch de docenten hebben enig commercieel belang bij deze tips en zijn aanvaarden geen enkele aansprakelijkheid]
 
