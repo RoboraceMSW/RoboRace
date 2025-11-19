@@ -1,4 +1,4 @@
-<img src="./msw_robot_race_logo_met_text.png" alt="Alt text" width="65%">
+<img src="./msw_robot_race_logo_met_text.png" alt="Alt text" width="65%"> 
 
 ## 📂 Inhoud
 1. [Introductie](#introductie)
