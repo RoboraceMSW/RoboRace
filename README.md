@@ -12,7 +12,7 @@
 ## Introductie
 Dit jaar zijn we begonnen met het geven van roboticalessen aan groep 5.
 In kleine groepjes van maximaal 8 leerlingen worden in een serie van 6 lessen de basisbeginselen uitgelegd van programmeren en robotica.
-Hierbij wordt steeds gekeken naar de overeenkomsten en verschillen tussen mens en robot in hoe deze hun omgeving waarnemen en daarop kunnen reageren.
+Hierbij wordt steeds gekeken naar de overeenkomsten en verschillen tussen mens en robot en hoe deze hun omgeving waarnemen en daarop kunnen reageren.
 
 <p align="center"><img src="resources/images/microbit_beating_heart.webp" width="30%" height="30%"></p>
 
