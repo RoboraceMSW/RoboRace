@@ -24,11 +24,11 @@ Als Sint helemaal los wil gaan op robotica en wat dieper in de buidel wil tasten
 Wil je meer te weten komen over de BBC micro:bit, de MakeCode programmeeromgeving en de Maqueen robot, bekijk dan de onderstaande links:
 <br/>
 <br/>
-[microbit.org](https://microbit.org/nl/) Alles over de micro:bit en de Micro:bit Educational Foundation <br/>
-[codekinderen microbit projecten](https://codekinderen.nl/microbit-projecten-2/) Micro:bit projecten <br/>
-[codekids](https://www.codekids.nl/category/micro-bit/) nog meer Micro:bit projecten en nieuws<br/>
+[Microbit.org](https://microbit.org/nl/) Alles over de micro:bit en de Micro:bit Educational Foundation <br/>
+[Codekinderen microbit projecten](https://codekinderen.nl/microbit-projecten-2/) Micro:bit projecten <br/>
+[Codekids](https://www.codekids.nl/category/micro-bit/) nog meer Micro:bit projecten en nieuws<br/>
 [Microbit101 quickstart](https://microbit101.nl/quickstart-microbit-kaarten/) tientallen Micro:bit projecten en ideeen<br/>
-[ict leskisten](https://webshop.ictleskisten.nl/product-categorie/micro-bit/) Micro:bit info en onderdelen<br/>
+[ICT leskisten](https://webshop.ictleskisten.nl/product-categorie/micro-bit/) Micro:bit info en onderdelen<br/>
 [Mr. Morrison](https://mrmorrison.co.uk/) Micro:bit starter lessons and beyond... een serie videos en meer over de Micro:bit (engels)<br/>
 [Maqueen v5 robot wiki](https://wiki.dfrobot.com/SKU_MBT0046_Maqueen_V5) Alle ins en outs van de Maqueen robot<br/>
 [Maqueen Robot bij arduitronics](https://www.arduitronics.com/product/6551/maqueen-lite-v5-microbit-robot-kit-for-stem-line-tracking-obstacle-avoidance-%E0%B9%81%E0%B8%97%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81-dfrobot) meer info over de Maqueen robot (engels)<br/>
