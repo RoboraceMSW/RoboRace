@@ -1,5 +1,7 @@
+<!-- 
 ---
 ---
+-->
 ## Cadeautips voor de feestdagen
 
 Bij cursus robotica die dit jaar op school gestart is, gebruiken wij de [BBC micro:bit](https://microbit.org/nl/) een klein printplaatje dat door de BBC speciaal is ontwikkeld voor het onderwijs. Het heeft een ingebouwde LED-matrix, sensoren, bluetooth en programmeerbare knoppen die uitnodigen om spelenderwijs te ontdekken hoe leuk en verrassend programmeren kan zijn.
