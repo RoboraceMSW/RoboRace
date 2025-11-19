@@ -45,6 +45,7 @@ De robot zelf bevat een aantal sensoren (lichtsterkte, infrarood, lijnvolgsensor
 # Links
 Wil je meer te weten komen over de BBC micro:bit, de MakeCode programmeeromgeving en de Maqueen robot, bekijk dan de onderstaande links:
 <br/>
+<p  align="center"><img src="resources/images/followline.jpg" width="40%" height="40%" /></p>
 <br/>
 [microbit.org](https://microbit.org/nl/) Alles over de micro:bit en de Micro:bit Educational Foundation <br/>
 [codekinderen microbit projecten](https://codekinderen.nl/microbit-projecten-2/) Micro:bit projecten <br/>
