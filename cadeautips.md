@@ -17,6 +17,9 @@ Als er kinderen zijn (en ouders natuurlijk 😀) die thuis, na school en in de k
 ![alt text](resources/images/kiwi_maqueen.jpg "DFRobot Maqueen") <br/>
 [DFRobot Maqueen versie 5(!), €39,31 bij Kiwi Electronics](https://www.kiwi-electronics.com/nl/bbc-microbit-boards-kits-accessoires-276/maqueen-lite-v5-microbit-robot-kit-voor-stem-20499)<br/>
 <br/>
+Let op: De micro:bit kan zelfstandig gebruikt worden **zonder** robot... maar de robot kan niet zonder de micro:bit!
+<br/>
+
 Als Sint helemaal los wil gaan op robotica en wat dieper in de buidel wil tasten... dan kan de robot ook nog uitgebreid worden met deze mechanische onderdelenset:<br/>
 ![alt text](resources/images/kiwi_mechanical_set_all.jpg "Mechanische onderdelenset") <br/>
 [Mecanical set: €50,46 bij RS-online](https://nl.rs-online.com/web/p/stem-robot-kits/2049904)<br/>
