@@ -1,5 +1,4 @@
 ---
-title: Cadeautips
 ---
 
 ## Cadeautips voor de feestdagen
