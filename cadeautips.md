@@ -43,5 +43,5 @@ Wil je meer te weten komen over de BBC micro:bit, de MakeCode programmeeromgevin
 Zie ook: [Roborace MSW](https://roboracemsw.github.io/RoboRace/)
 <br/>
 
-###### [N.B. De links op deze pagina zijn uitsluitend een vrijblijvende suggestie.  De school noch de docenten hebben enig commercieel belang bij deze tips en zij aanvaarden dan ook ook op geen enkele manier enige aansprakelijkheid]
+###### [N.B. De links op deze pagina zijn uitsluitend een vrijblijvende suggestie.  De school noch de docenten hebben enig commercieel belang bij deze tips en zij aanvaarden dan ook op geen enkele manier enige aansprakelijkheid]
 
