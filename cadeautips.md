@@ -15,7 +15,7 @@ Als er kinderen zijn (en ouders natuurlijk :smiley:) die thuis, na school en in 
 </br>
 </br>
 Als Sint helemaal los wil gaan op robotica en wat dieper in de buidel wil tasten... dan kan de robot ook nog uitgebreid worden met deze mechanische onderdelen set:<br/>
-![alt text](resources/images/kiwi_maqueen.jpg "DFRobot Maqueen") <br/>
+![alt text](resources/images/kiwi_mechanical_set_all.jpg "Mechanische onderdelen set") <br/>
 [Mecanical set: €50,46 bij RS-online](https://nl.rs-online.com/web/p/stem-robot-kits/2049904)<br/>
 [of €57,46 bij Kiwi Electronics](https://www.kiwi-electronics.com/nl/maqueen-mechanical-parts-set-7407)<br/>
 
