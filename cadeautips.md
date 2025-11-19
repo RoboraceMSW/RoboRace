@@ -23,6 +23,7 @@ Als Sint helemaal los wil gaan op robotica en wat dieper in de buidel wil tasten
 # Verdere info
 Wil je meer te weten komen over de BBC micro:bit, de MakeCode programmeeromgeving en de Maqueen robot, bekijk dan de onderstaande links:
 <br/>
+<br/>
 [microbit.org](https://microbit.org/nl/) Alles over de micro:bit en de Micro:bit Educational Foundation <br/>
 [codekinderen microbit projecten](https://codekinderen.nl/microbit-projecten-2/) Micro:bit projecten <br/>
 [codekids](https://www.codekids.nl/category/micro-bit/) nog meer Micro:bit projecten en nieuws<br/>
