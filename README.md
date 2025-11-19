@@ -24,7 +24,7 @@ De Micro:bit is zeer populair in het onderwijs. In Nederland worden er momenteel
 <p  align="center"><img src="resources/images/makecode_blockvoorbeeld2.png" width="40%" height="40%"></p>
 
 ## De Robot
-<p align="center"><img src="https://github.com/RoboraceMSW/RoboRace/blob/main/resources/images/kiwi_maqueen.jpg"></p>
+<p align="center"><img src="resources/images/kiwi_maqueen.jpg"></p>
                   
 De robot die in de lessen wordt gebruikt is een [Maqueen Lite v5](https://www.dfrobot.com/product-2937.html) van [DFRobot](https://www.dfrobot.com/).
 De robot zelf bevat een aantal sensoren (lichtsterkte, infrarood, lijnvolgsensoren en een afstandssensor), twee motoren en een hoop meer-kleuren LED's. Zodra de micro:bit in de connector op de robot wordt gestoken zijn al deze sensoren en actuatoren vanuit de micro:bit uit te lezen en te bedienen. Samen met de sensoren en actuatoren die de micro:bit zelf rijk is ontstaat er een toegankelijk en veelzijdig platform dat talloze manieren de interactie met zijn omgeving aan kan gaan. Voor deze robot is er een uitgebreide bibliotheek met functieblokken beschikbaar waarmee iedere functie van de robot eenvoudig in programma's gebruikt kan worden.
