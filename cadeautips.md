@@ -35,5 +35,5 @@ Wil je meer te weten komen over de BBC micro:bit, de MakeCode programmeeromgevin
 [Handleiding inelkaarzetten Robot](resources/Roborace_handleiding_inelkaarzetten_robot.pdf)
 <br/>
 
-###### [N.B. De links op deze pagina zijn uitsluitend een vrijblijvende suggestie.  De school noch de docenten hebben enig commercieel belang bij deze tips en zijn aanvaarden dan ook ook op geen enkele manier enige aansprakelijkheid]
+###### [N.B. De links op deze pagina zijn uitsluitend een vrijblijvende suggestie.  De school noch de docenten hebben enig commercieel belang bij deze tips en zij aanvaarden dan ook ook op geen enkele manier enige aansprakelijkheid]
 
