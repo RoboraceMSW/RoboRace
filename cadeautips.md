@@ -8,7 +8,7 @@ Bij cursus robotica die dit jaar op school gestart is, gebruiken wij de [BBC mic
 
 De micro:bit kan zelfstandig gebruikt worden om oneindig veel leuke programmeerprojectjes mee te maken. Je kan de micro:bit ook gebruiken als 'hersenen' van een Maqueen robot. Je kan de robot dan leren te reageren op zijn omgeving, een hindernisparcours te laten afleggen of er gewoon lekker mee racen.
 
-Als er kinderen zijn (en ouders natuurlijk 😀) die thuis, na school en in de kerstvakantie verder willen gaan met wat ze hebben geleerd tijdens de roboticalessen of alvast thuis willen uitproberen wat ze binnenkort in de cursus gaan leren... dan zou je Sint of de Kerstman de onderstaande links  kunnen influisteren. Micro:bit + Maqueen (v5) robot is precies dezelfde combinatie die ook in de lessen wordt gebruikt. 
+Als er kinderen zijn (en ouders natuurlijk 😀) die thuis, na school en in de kerstvakantie verder willen gaan met wat ze hebben geleerd tijdens de roboticalessen of alvast thuis willen uitproberen wat ze binnenkort in de cursus gaan leren... dan zou je Sint of de Kerstman de onderstaande links  kunnen influisteren. De Micro:bit samen met de  Maqueen (v5) robot is precies dezelfde combinatie die ook in de lessen wordt gebruikt. 
 
 ![alt text](resources/images/kiwi_microbit_go_Bundel.jpg "Microbit GO bundel")<br/>
 [micro:bit GO bundel, €19,95 bij Kiwi Electronics](https://www.kiwi-electronics.com/nl/bbc-microbit-boards-kits-accessoires-276/bbc-microbit-v2-2-go-bundel-10260)<br/>
