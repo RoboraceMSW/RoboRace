@@ -2,9 +2,7 @@
 ---
 ---
 -->
-
-<img src="./resources/images/msw_robot_race_logo_met_text_cadeau.png" alt="Alt text" width="50%">
-<br/>
+<img src="./resources/images/msw_robot_race_logo_met_text_cadeau.png" alt="Alt text" width="50%"><br/>
 
 ## Cadeautips voor de feestdagen
 
