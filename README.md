@@ -48,10 +48,12 @@ Samen met de sensoren en actuatoren die de micro:bit zelf rijk is ontstaat er ee
 <br/>
 
 # Links
+
 Wil je meer te weten komen over de BBC micro:bit, de MakeCode programmeeromgeving en de Maqueen robot, bekijk dan de onderstaande links:
 <br/>
 <p  align="center"><img src="resources/images/followline.jpg" width="40%" height="40%" /></p>
 <br/>
+
 [Microbit.org](https://microbit.org/nl/) Alles over de micro:bit en de Micro:bit Educational Foundation <br/>
 [Codekinderen microbit projecten](https://codekinderen.nl/microbit-projecten-2/) Micro:bit projecten <br/>
 [Codekids](https://www.codekids.nl/category/micro-bit/) nog meer Micro:bit projecten en nieuws<br/>
