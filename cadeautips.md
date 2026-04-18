@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="https://roboracemsw.github.io/RoboRace/cadeautips_en.html">
+    <img src="./resources/gb_flag.png" width="20" alt="English">
+  </a>
+</div>  
+
 
 <img src="./resources/images/msw_robot_race_logo_met_text_cadeau.png" alt="Alt text" width="50%"><br/>
 
