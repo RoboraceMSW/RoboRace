@@ -4,7 +4,7 @@
   </a>
 </div>  
 
-<img src="./resources/images/msw_robot_race_logo_met_text_cadeau.png" alt="Alt text" width="50%"><br/>
+<img src="./resources/images/Roborace_giftideas.png" alt="Alt text" width="50%"><br/>
 
 ## Gift Ideas for the Holidays
 
