@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://roboracemsw.github.io/RoboRace/">
-    <img src="./resources/nl_flag.png" width="40" alt="Nederlands">
+    <img src="./resources/images/nl_flag.png" width="40" alt="Nederlands">
   </a>
 </div>  
 
