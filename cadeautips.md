@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://roboracemsw.github.io/RoboRace/cadeautips_en.html">
-    <img src="./resources/gb_flag.png" width="40" alt="English">
+    <img src="./resources/images/gb_flag.png" width="40" alt="English">
   </a>
 </div>  
 
