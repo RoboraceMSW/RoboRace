@@ -1,7 +1,4 @@
-<!-- 
----
----
--->
+
 <img src="./resources/images/msw_robot_race_logo_met_text_cadeau.png" alt="Alt text" width="50%"><br/>
 
 ## Cadeautips voor de feestdagen
@@ -14,17 +11,17 @@ Als er kinderen zijn (en ouders natuurlijk 😀) die thuis, na school en in de k
 
 ![alt text](resources/images/kiwi_microbit_go_Bundel.jpg "Microbit GO bundel")<br/>
 [micro:bit GO bundel, €19,95 bij Kiwi Electronics](https://www.kiwi-electronics.com/nl/bbc-microbit-boards-kits-accessoires-276/bbc-microbit-v2-2-go-bundel-10260)<br/>
-[Of bij SOS Solutions: GO bundel, €19,90](https://www.sossolutions.nl/bbc-micro-bit-go-v2)<br/>
+[Of bij SOS Solutions: GO bundel, €17,95](https://www.sossolutions.nl/bbc-micro-bit-go-v2)<br/>
 <br/>
 ![alt text](resources/images/kiwi_maqueen.jpg "DFRobot Maqueen") <br/>
-[DFRobot Maqueen versie 5(!), €39,31 bij Kiwi Electronics](https://www.kiwi-electronics.com/nl/bbc-microbit-boards-kits-accessoires-276/maqueen-lite-v5-microbit-robot-kit-voor-stem-20499)<br/>
+[DFRobot Maqueen versie 5(!), €41,73 bij Kiwi Electronics](https://www.kiwi-electronics.com/nl/bbc-microbit-boards-kits-accessoires-276/maqueen-lite-v5-microbit-robot-kit-voor-stem-20499)<br/>
 <br/>
 Let op: De micro:bit kan zelfstandig gebruikt worden **zonder** robot... maar de robot kan niet zonder de micro:bit!
 <br/>
 
 Als Sint helemaal los wil gaan op robotica en wat dieper in de buidel wil tasten... dan kan de robot ook nog uitgebreid worden met deze mechanische onderdelenset:<br/>
 ![alt text](resources/images/kiwi_mechanical_set_all.jpg "Mechanische onderdelenset") <br/>
-[Mecanical set: €50,46 bij RS-online](https://nl.rs-online.com/web/p/stem-robot-kits/2049904)<br/>
+[Mecanical set: €50,51 bij RS-online](https://nl.rs-online.com/web/p/stem-robot-kits/2049904)<br/>
 [of €57,46 bij Kiwi Electronics](https://www.kiwi-electronics.com/nl/maqueen-mechanical-parts-set-7407)<br/>
 
 # Verdere info
