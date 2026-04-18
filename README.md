@@ -24,6 +24,8 @@ Hierbij wordt steeds gekeken naar de overeenkomsten en verschillen tussen mens e
 
 De nadruk bij de lessen ligt steeds op het **zelf doen**. Zelf je robot en de arena in elkaar zetten, zelf je programma's bedenken en naar de robot sturen. Uiteindelijk kan iedereen in de laatste les laten zien hoe goed hun robot een route kan vinden door een zelf verzonnen en inelkaargezet parcours vol hindernissen.
 
+<p align="center"><img src="resources/images/Roborace_parcours.jpg" width="30%" height="30%"></p>
+
 ## Programmeeromgeving
 We maken gebruik van de [micro:bit](https://microbit.org/nl/), een klein printplaatje dat door de BBC speciaal is ontwikkeld voor het onderwijs. Het heeft een ingebouwde LED-matrix, sensoren, bluetooth en programmeerbare knoppen die uitnodigen om spelenderwijs te ontdekken hoe leuk en verrassend programmeren kan zijn. <br/>
 <br/>
