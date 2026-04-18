@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="https://roboracemsw.github.io/RoboRace/roborace_en.html">
+    <img src="./resources/gb_flag.png" width="40" alt="English">
+  </a>
+</div>  
+
 <img src="./msw_robot_race_logo_met_text.png" alt="Alt text" width="65%">
 
 ## 📂 Inhoud
@@ -16,7 +22,7 @@ Hierbij wordt steeds gekeken naar de overeenkomsten en verschillen tussen mens e
 
 <p align="center"><img src="resources/images/microbit_beating_heart.webp" width="30%" height="30%"></p>
 
-De nadruk bij de lessen ligt steeds op het **zelf doen**. Zelf je robot en de arena in elkaar zetten, zelf je programma's bedenken en naar de robot sturen. Uiteindelijk kan iedereen in de laatste les laten zien hoe goed hun robot een route kan vinden door een parcours vol hindernissen.
+De nadruk bij de lessen ligt steeds op het **zelf doen**. Zelf je robot en de arena in elkaar zetten, zelf je programma's bedenken en naar de robot sturen. Uiteindelijk kan iedereen in de laatste les laten zien hoe goed hun robot een route kan vinden door een zelf verzonnen en inelkaargezet parcours vol hindernissen.
 
 ## Programmeeromgeving
 We maken gebruik van de [micro:bit](https://microbit.org/nl/), een klein printplaatje dat door de BBC speciaal is ontwikkeld voor het onderwijs. Het heeft een ingebouwde LED-matrix, sensoren, bluetooth en programmeerbare knoppen die uitnodigen om spelenderwijs te ontdekken hoe leuk en verrassend programmeren kan zijn. <br/>
