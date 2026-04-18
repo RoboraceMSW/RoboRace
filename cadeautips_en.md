@@ -40,7 +40,7 @@ If you would like to learn more about the BBC micro:bit, the MakeCode programmin
 <br/>
 <br/>
 
-See also: [Roborace MSW](https://roboracemsw.github.io/RoboRace/)
+See also: [Roborace MSW](https://roboracemsw.github.io/RoboRace/roborace_en.md)
 <br/>
 ###### [Note: The links on this page are provided purely as a non-binding suggestion. Neither the school nor the teachers have any commercial interest in these recommendations, and they accept no liability whatsoever.]
 
